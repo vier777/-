@@ -80,8 +80,8 @@
 		(uuid "703f3e8f-0745-43ec-bd7b-f4f14b1523ec")
 	)
 	(fp_circle
-		(center -1 -0.45)
-		(end -0.86 -0.46)
+		(center -0.940356 -0.4)
+		(end -0.800356 -0.41)
 		(stroke
 			(width 0)
 			(type solid)
